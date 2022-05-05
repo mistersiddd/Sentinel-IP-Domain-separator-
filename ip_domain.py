@@ -15,6 +15,8 @@ def main():
         print(domain)
         if ip_list:
             print(ip_list)
-
+    else:
+        print(ip_list)
+    
 if __name__ == "__main__":
     main()
